@@ -2,7 +2,7 @@
 In this project, we have restructured frontend and backend of Sabancı University outgoing system. 
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/boraikizoglu/SU-Exchange-Student-Course-Registration-App/master/demo/exchange_demo.gif" width="435" height="761">
+<img align="center" src="https://raw.githubusercontent.com/boraikizoglu/SU-Exchange-Student-Course-Registration-App/master/demo/exchange_demo.gif" width="340" height="570">
 </p>
 
 Sabancı University outgoing website has some functionalities.
