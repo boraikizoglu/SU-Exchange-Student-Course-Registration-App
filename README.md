@@ -15,7 +15,7 @@ course. Another functionality is that students are able to fill learning agreeme
 system.
 
 This system will have equal_courses, universities, req_page, add_drop, learning agreement,
-users, mail_log databases.
+users, mail_log tables.
 
 
 1-) Admin user:
